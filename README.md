@@ -1,4 +1,4 @@
 # ConformerSearch
-find conformers of atomic systems
+Find conformers of atomic systems based on the smiles representation of molecule. 
 
-just a collection of py scripts
+This is just a starting, where I am collecting relevant information in the form of py scripts from elsewhere and trying to find the conformers.
